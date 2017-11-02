@@ -45,4 +45,4 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
 </svg>
 ```
 
-split testing 2
+split testing 3
